@@ -24,6 +24,7 @@ e. Department of Chemical and Biological Engineering, Korea University, Republic
 ## 📑 Abstract
 We propose an intelligent evaluation framework that leverages large language models (LLMs) and a multi-agent system to integrate semantic reasoning with numerical performance metrics for materials screening. Using MOFs for CO₂ capture as a case study, the methodology combines adsorption simulations, process modeling, and energy-efficiency analysis with interpretable multi-agent evaluation, offering a scalable paradigm for intelligent materials discovery.  
 
+<img src="fig1.png" alt="Project Cover" width="600"/>
 ---
 
 ## 💻 Code
