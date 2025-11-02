@@ -17,6 +17,7 @@ e. Department of Chemical and Biological Engineering, Korea University, Republic
 * Contact author: (lym7499500@korea.ac.kr)
 
 ---
+![Project Cover](assets/fig1.png)
 
 ## 🚀 Project Overview
 This repository accompanies the above study and packages a reusable workflow for intelligent MOF screening. It fuses deterministic multi-objective optimisation with a semantic large-language-model (LLM) consensus layer:
