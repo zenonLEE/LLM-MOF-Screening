@@ -1,0 +1,17 @@
+# MOFSelect workflow configuration
+
+data:
+  cif_features_csv: data/cif_features/cif_features_preprocessed.csv
+  tsa_results_glob: data/TSA_results/uff_ddec_all_results_*.json
+
+output:
+  results: results
+  visualizations: plots
+  data: data
+  reports: reports
+
+scripts:
+  A: scripts/step_a_codebook_generation.py
+  B: scripts/step_b_pareto_selection.py
+  D: scripts/step_d_evolutionary_search.py
+  F: scripts/step_f_llm_agent_screening.py
