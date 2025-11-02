@@ -14,7 +14,7 @@ d. Grantham Institute for Climate Change and the Environment, Imperial College L
 e. Department of Chemical and Biological Engineering, Korea University, Republic of Korea  
 
 <sup>1</sup> These authors contributed equally as first authors.  
-* Corresponding author: (lym7499500@korea.ac.kr)
+* Contact author: (lym7499500@korea.ac.kr)
 
 ---
 
