@@ -70,7 +70,6 @@ Step F uses the UNI API (OpenAI-compatible). Provide your key via environment va
 export UNI_API_KEY="sk-********"
 # or create MOFSelect/.env with the same line
 ```
-If no key is supplied, `run_agents.py` falls back to the placeholder `sk-your-api-key-here`. Real LLM calls will fail until a valid key is set. **Do not commit your actual key.**
 
 ## ⚙️ Usage
 ### Full pipeline (numerical + semantic)
